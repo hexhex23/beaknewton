@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B10F5296-E351-441A-8AC4-46A34C736C7D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Beaknewton/Program.cs">
+    <Files>
+      <File FileName="Beaknewton/Program.cs" Line="13" Column="1" />
+      <File FileName="Beaknewton Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Beaknewton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

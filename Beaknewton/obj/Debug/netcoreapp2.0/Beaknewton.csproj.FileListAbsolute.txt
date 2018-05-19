@@ -1,0 +1,11 @@
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/bin/Debug/netcoreapp2.0/Beaknewton.deps.json
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/bin/Debug/netcoreapp2.0/Beaknewton.runtimeconfig.json
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/bin/Debug/netcoreapp2.0/Beaknewton.runtimeconfig.dev.json
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/bin/Debug/netcoreapp2.0/Beaknewton.dll
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/bin/Debug/netcoreapp2.0/Beaknewton.pdb
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/obj/Debug/netcoreapp2.0/Beaknewton.csprojResolveAssemblyReference.cache
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/obj/Debug/netcoreapp2.0/Beaknewton.csproj.CoreCompileInputs.cache
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/obj/Debug/netcoreapp2.0/Beaknewton.AssemblyInfoInputs.cache
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/obj/Debug/netcoreapp2.0/Beaknewton.AssemblyInfo.cs
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/obj/Debug/netcoreapp2.0/Beaknewton.dll
+/Users/mariawilson/Projects/Beaknewton/Beaknewton/obj/Debug/netcoreapp2.0/Beaknewton.pdb

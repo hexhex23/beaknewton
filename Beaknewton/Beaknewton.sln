@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beaknewton", "Beaknewton.csproj", "{FE4826D1-DEEC-4577-99A8-E9C46DE33268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4826D1-DEEC-4577-99A8-E9C46DE33268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4826D1-DEEC-4577-99A8-E9C46DE33268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4826D1-DEEC-4577-99A8-E9C46DE33268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4826D1-DEEC-4577-99A8-E9C46DE33268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
